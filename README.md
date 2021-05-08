@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dheeraj-R
+- 👋 Hi, I’m @Dheeraj-R. I have 7 projects in private because they contain confidential things.
 - 👀 I’m interested in server side web application building and discord bot coding. These topics intrigue me as of now but ofc I'm open to learn anything that's cool XD
 - 🌱 I’m currently learning web app building and coding of discord bots.
  I have already worked on 3 discord bots that help me maintain my server with over 1.1k members. 
