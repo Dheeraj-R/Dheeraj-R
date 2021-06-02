@@ -5,7 +5,7 @@
  I'm working on building a website that organises/directs interested people to the original tourism platform. it's complicated but yea.
 - 💞️ I’m looking to collaborate on coding discord bots from scratch, and i am willing to learn more ofc XD
 - 📫 How to reach me 
-  - Discord name: Iwatani Naofumi#0001
+  - Discord name: Iwatani Naofumi#9712
   - Email: meetdheerajreddy@gmail.com
   - Phone: +91 7618765666
 
