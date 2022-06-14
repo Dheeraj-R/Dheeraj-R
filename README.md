@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dheeraj.
-- 👀 Into Web Development using React/Vue, Passionate about Machine Learning.
-- I worked on 3 discord bots that help me maintain my server with over 2k members and a couple of other Large servers with over 10k members. 
-- 💞️ I’m looking to collaborate on coding discord bots from scratch, and i am willing to learn more ofc XD
+- 👀 I have worked on Web Development using React/Vue, passionate about Machine Learning/AI (also working on projects with AI), .
+- Things i brag about: I worked on a couple of discord bots that helped me maintain my server with over 80k members and a couple of other Large servers with over 10k members. 
 - 📫 How to reach me 
   - Discord: Iwatani Naofumi#9712
   - Email: meetdheerajreddy@gmail.com
