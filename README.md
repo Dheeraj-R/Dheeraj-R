@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dheeraj.
-- 👀 I am skilled in Nodejs/Expressjs/MongoDB, React/Vue/Discord, Machine Learning concepts, and many more. I really love ConvoNets. 
+- 👀 I am strong in **Mathematics** and fundamentals of **C**, **C++** and **Python**.
+- Key skills - Data Modelling and Evaluation, Neural Networks, Nodejs/Expressjs/MongoDB, React/Discord and Machine Learning concepts. I really love ConvoNets. 
 - I have had hands-on experience with each of the aforementioned skills and I love learning.
 - Things i brag about: I worked on a couple of discord bots that helped me maintain my server with over 80k members and a couple of other Large servers with over 10k members. 
 - 📫 How to reach me 
